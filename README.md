@@ -1,4 +1,6 @@
-
+<a target="_blank" href="https://colab.research.google.com/github/sayandeep02/Bearing-Fault-Classification/blob/master/ClassificationModels.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 
 # ⚙️ 🚀 **Fault Diagnosis and Classification of Rotating Machinery Using ML Techniques on CWRU Vibration Dataset**
